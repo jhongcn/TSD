@@ -37,3 +37,6 @@ module MyModule {
         }
     }
 }
+
+var my : MyModule.MyInterface = new MyModule.MyClass('John', 'girl', 22);
+console.log(my.getAllInfo());
