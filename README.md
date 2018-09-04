@@ -1,2 +1,2 @@
 # TSD
-TypeScripte Demo Application
+TypeScript Demo Application
